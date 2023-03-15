@@ -1,0 +1,1021 @@
+{
+  "Municipality": [
+    {
+      "Municipality": "Allegheny County",
+      "Tax_Collector": "John K. Weinstein",
+      "Phone": "412-350-4120",
+      "Millage": "4.73"
+    },
+    {
+      "Municipality": "Aleppo Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "3.5"
+    },
+    {
+      "Municipality": "Aspinwall Borough",
+      "Tax_Collector": "Dawn E Eastley",
+      "Phone": "412-781-0213",
+      "Millage": "6.86"
+    },
+    {
+      "Municipality": "Avalon Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2311",
+      "Millage": "9.83"
+    },
+    {
+      "Municipality": "Baldwin Borough",
+      "Tax_Collector": "Gail Dobson-Mikush",
+      "Phone": "412-884-0803",
+      "Millage": "6.78"
+    },
+    {
+      "Municipality": "Baldwin Township",
+      "Tax_Collector": "Judith Maffie",
+      "Phone": "412-341-9597",
+      "Millage": "9.8"
+    },
+    {
+      "Municipality": "Bell Acres Borough",
+      "Tax_Collector": "Gregg Cooper",
+      "Phone": "412-418-4746",
+      "Millage": "4.32"
+    },
+    {
+      "Municipality": "Bellevue Borough",
+      "Tax_Collector": "Joseph P Nolan",
+      "Phone": "412-766-6164",
+      "Millage": "4.89"
+    },
+    {
+      "Municipality": "Ben Avon Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "4.92"
+    },
+    {
+      "Municipality": "Ben Avon Heights Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "7.95"
+    },
+    {
+      "Municipality": "Bethel Park 3",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-7676",
+      "Millage": "2.78"
+    },
+    {
+      "Municipality": "Blawnox Borough",
+      "Tax_Collector": "Casey Cunningham",
+      "Phone": "412-499-2086",
+      "Millage": "9.85"
+    },
+    {
+      "Municipality": "Brackenridge Borough",
+      "Tax_Collector": "Melinda Cattley",
+      "Phone": "724-904-7455",
+      "Millage": "6.25"
+    },
+    {
+      "Municipality": "Braddock Borough",
+      "Tax_Collector": "David Rosenstraus",
+      "Phone": "412-271-1018",
+      "Millage": "13.65"
+    },
+    {
+      "Municipality": "Braddock Hills Borough",
+      "Tax_Collector": "Betty Ann Horvath",
+      "Phone": "412-241-5080",
+      "Millage": "8.205"
+    },
+    {
+      "Municipality": "Bradford Woods Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "3.375"
+    },
+    {
+      "Municipality": "Brentwood Borough",
+      "Tax_Collector": "Fay Boland",
+      "Phone": "412-882-5383x1117",
+      "Millage": "10"
+    },
+    {
+      "Municipality": "Bridgeville Borough",
+      "Tax_Collector": "Anne Marie Parisi",
+      "Phone": "412-221-6055",
+      "Millage": "8.25"
+    },
+    {
+      "Municipality": "Carnegie Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "7"
+    },
+    {
+      "Municipality": "Castle Shannon Borough",
+      "Tax_Collector": "Eileen L O'Malley",
+      "Phone": "412-885-9260",
+      "Millage": "9.658"
+    },
+    {
+      "Municipality": "Chalfant Borough",
+      "Tax_Collector": "Carol A. Donahue",
+      "Phone": "412-824-3283",
+      "Millage": "8.9"
+    },
+    {
+      "Municipality": "Cheswick Borough 5",
+      "Tax_Collector": "Louise Parkhill",
+      "Phone": "724-275-7722",
+      "Millage": "5.85"
+    },
+    {
+      "Municipality": "Churchill Borough",
+      "Tax_Collector": "Keystone Collections Group",
+      "Phone": "412-241-7113",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "City of Clairton 1",
+      "Tax_Collector": "Howard J Bednar",
+      "Phone": "412-233-8113",
+      "Millage": "33",
+      "Land_1": "3.5"
+    },
+    {
+      "Municipality": "City of Duquesne 1",
+      "Tax_Collector": "City of Duquesne",
+      "Phone": "412-466-8545",
+      "Millage": "20.5",
+      "Land_1": "15.5"
+    },
+    {
+      "Municipality": "City of McKeesport 1",
+      "Tax_Collector": "City Treasurer",
+      "Phone": "412-675-5020",
+      "Millage": "20.5",
+      "Land_1": "8.26"
+    },
+    {
+      "Municipality": "City of Pittsburgh",
+      "Tax_Collector": "City of Pittsburgh",
+      "Phone": "412-255-2525",
+      "Millage": "8.06"
+    },
+    {
+      "Municipality": "Collier Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "4.1"
+    },
+    {
+      "Municipality": "Coraopolis Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "12.5"
+    },
+    {
+      "Municipality": "Crafton Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "8.59"
+    },
+    {
+      "Municipality": "Crescent Township 3",
+      "Tax_Collector": "Morgan Withee",
+      "Phone": "724-457-1320",
+      "Millage": "4.9"
+    },
+    {
+      "Municipality": "Dormont Borough",
+      "Tax_Collector": "Vickie McGurk",
+      "Phone": "412-561-8900",
+      "Millage": "9.97"
+    },
+    {
+      "Municipality": "Dravosburg Borough",
+      "Tax_Collector": "Charles Gross",
+      "Phone": "412-469-0743",
+      "Millage": "7.55"
+    },
+    {
+      "Municipality": "East Deer Township",
+      "Tax_Collector": "Bernadette Paulovich",
+      "Phone": "412-829-7991",
+      "Millage": "4.9"
+    },
+    {
+      "Municipality": "East McKeesport Borough",
+      "Tax_Collector": "Robert Ferrainolo",
+      "Phone": "412-829-7991",
+      "Millage": "9.4"
+    },
+    {
+      "Municipality": "East Pittsburgh Borough",
+      "Tax_Collector": "Patrick Geric",
+      "Phone": "412-823-4046",
+      "Millage": "13.45"
+    },
+    {
+      "Municipality": "Edgewood Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "7.185"
+    },
+    {
+      "Municipality": "Edgeworth Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "4.15"
+    },
+    {
+      "Municipality": "Elizabeth Borough",
+      "Tax_Collector": "Robin Schmidt",
+      "Phone": "412-384-7771",
+      "Millage": "10"
+    },
+    {
+      "Municipality": "Elizabeth Township 3",
+      "Tax_Collector": "Mary Walos",
+      "Phone": "412-751-2880",
+      "Millage": "3.926"
+    },
+    {
+      "Municipality": "Emsworth Borough",
+      "Tax_Collector": "Laura West",
+      "Phone": "412-734-4714",
+      "Millage": "4.955"
+    },
+    {
+      "Municipality": "Etna Borough",
+      "Tax_Collector": "Karen Tomaszewski",
+      "Phone": "412-781-6417",
+      "Millage": "9"
+    },
+    {
+      "Municipality": "Fawn Township",
+      "Tax_Collector": "Margaret Hunkele",
+      "Phone": "724-226-0666",
+      "Millage": "3.04"
+    },
+    {
+      "Municipality": "Findlay Township",
+      "Tax_Collector": "Barbara Coates",
+      "Phone": "724-695-0521",
+      "Millage": "1.6"
+    },
+    {
+      "Municipality": "Forest Hills Borough",
+      "Tax_Collector": "Janet Sullivan",
+      "Phone": "412-351-7348",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Forward Township",
+      "Tax_Collector": "William Firczak",
+      "Phone": "412-384-2321",
+      "Millage": "1.95"
+    },
+    {
+      "Municipality": "Fox Chapel Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-345-7962",
+      "Millage": "2.95"
+    },
+    {
+      "Municipality": "Franklin Park Borough",
+      "Tax_Collector": "Kristin Losco",
+      "Phone": "412-364-4115",
+      "Millage": "1.29"
+    },
+    {
+      "Municipality": "Frazer Township",
+      "Tax_Collector": "Debra Bajack",
+      "Phone": "724-224-8971",
+      "Millage": "2.5"
+    },
+    {
+      "Municipality": "Glassport Borough",
+      "Tax_Collector": "Jennifer Bell",
+      "Phone": "412-664-7310",
+      "Millage": "15.49"
+    },
+    {
+      "Municipality": "Glen Osborne Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2319",
+      "Millage": "4.9"
+    },
+    {
+      "Municipality": "Glenfield Borough",
+      "Tax_Collector": "Sandra Kuriger",
+      "Phone": "412-741-9473",
+      "Millage": "4.15"
+    },
+    {
+      "Municipality": "Green Tree Borough",
+      "Tax_Collector": "W David Montz",
+      "Phone": "412-921-1110",
+      "Millage": "4.61"
+    },
+    {
+      "Municipality": "Hampton Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "2.9241"
+    },
+    {
+      "Municipality": "Harmar Township",
+      "Tax_Collector": "James DiPalma",
+      "Phone": "724-274-4550",
+      "Millage": "3.15"
+    },
+    {
+      "Municipality": "Harrison Township",
+      "Tax_Collector": "Michael D McKechnie",
+      "Phone": "724-226-1393",
+      "Millage": "5.106"
+    },
+    {
+      "Municipality": "Haysville Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "5.08"
+    },
+    {
+      "Municipality": "Heidelberg Borough",
+      "Tax_Collector": "Nathaniel Jackson",
+      "Phone": "412-276-5653",
+      "Millage": "7.95"
+    },
+    {
+      "Municipality": "Homestead Borough 5",
+      "Tax_Collector": "Alice Paylor-Dais",
+      "Phone": "412-461-1340 x102",
+      "Millage": "13.33"
+    },
+    {
+      "Municipality": "Indiana Township",
+      "Tax_Collector": "Julie Leventry",
+      "Phone": "412-767-5333",
+      "Millage": "3.47"
+    },
+    {
+      "Municipality": "Ingram Borough",
+      "Tax_Collector": "Tax Office",
+      "Phone": "412-922-5877",
+      "Millage": "5.9"
+    },
+    {
+      "Municipality": "Jefferson Hills Borough",
+      "Tax_Collector": "Josephine Lipnicky",
+      "Phone": "412-226-2230",
+      "Millage": "5.66"
+    },
+    {
+      "Municipality": "Kennedy Township",
+      "Tax_Collector": "Mel Weinstein",
+      "Phone": "412-771-3616",
+      "Millage": "2.35"
+    },
+    {
+      "Municipality": "Kilbuck Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "4.9"
+    },
+    {
+      "Municipality": "Leet Township",
+      "Tax_Collector": "Cindy Wanto",
+      "Phone": "724-266-2280",
+      "Millage": "7.7"
+    },
+    {
+      "Municipality": "Leetsdale Borough 4",
+      "Tax_Collector": "Phil Perciavalle",
+      "Phone": "412-741-3195",
+      "Millage": "9"
+    },
+    {
+      "Municipality": "Liberty Borough",
+      "Tax_Collector": "Shelley Aquilante",
+      "Phone": "412-896-7408",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Lincoln Borough",
+      "Tax_Collector": "Sharon Jageman",
+      "Phone": "412-751-2655",
+      "Millage": "9"
+    },
+    {
+      "Municipality": "Marshall Township",
+      "Tax_Collector": "Charles Carey",
+      "Phone": "724-772-2470",
+      "Millage": "1.42"
+    },
+    {
+      "Municipality": "McCandless Township",
+      "Tax_Collector": "Judith M Wagner",
+      "Phone": "412-364-0616",
+      "Millage": "1.236"
+    },
+    {
+      "Municipality": "McDonald Borough 2",
+      "Tax_Collector": "John B Bracall",
+      "Phone": "412-351-5500",
+      "Millage": "3.39"
+    },
+    {
+      "Municipality": "McKees Rocks Borough",
+      "Tax_Collector": "Tracy Pederson",
+      "Phone": "412-331-2498",
+      "Millage": "9.4"
+    },
+    {
+      "Municipality": "Millvale Borough",
+      "Tax_Collector": "Scott Davis",
+      "Phone": "412-418-6425",
+      "Millage": "9.5"
+    },
+    {
+      "Municipality": "Monroeville Municipality",
+      "Tax_Collector": "Patrick Fulkerson",
+      "Phone": "412-856-3348",
+      "Millage": "4"
+    },
+    {
+      "Municipality": "Moon Township",
+      "Tax_Collector": "Catherine Tress",
+      "Phone": "412-299-7446",
+      "Millage": "2.74"
+    },
+    {
+      "Municipality": "Mount Lebanon",
+      "Tax_Collector": "Joseph Senko",
+      "Phone": "412-343-3405",
+      "Millage": "4.91"
+    },
+    {
+      "Municipality": "Mount Oliver Borough",
+      "Tax_Collector": "Tina Carcia",
+      "Phone": "412-431-8107",
+      "Millage": "13.5"
+    },
+    {
+      "Municipality": "Munhall Borough",
+      "Tax_Collector": "Donna Mercuri",
+      "Phone": "412-464-7315",
+      "Millage": "10.75"
+    },
+    {
+      "Municipality": "Neville Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "4.95"
+    },
+    {
+      "Municipality": "North Braddock Borough",
+      "Tax_Collector": "Kathleen M Evanchec",
+      "Phone": "412-351-5500",
+      "Millage": "11"
+    },
+    {
+      "Municipality": "North Fayette Township",
+      "Tax_Collector": "Thomas Falcioni",
+      "Phone": "724-693-3116",
+      "Millage": "3.29"
+    },
+    {
+      "Municipality": "North Versailles Township",
+      "Tax_Collector": "Mary Ann Fetsick",
+      "Phone": "412-824-6616",
+      "Millage": "7.75"
+    },
+    {
+      "Municipality": "O'Hara Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "5"
+    },
+    {
+      "Municipality": "Oakdale Borough",
+      "Tax_Collector": "Dawn Ostrander",
+      "Phone": "724-693-9397",
+      "Millage": "3.73"
+    },
+    {
+      "Municipality": "Oakmont Borough",
+      "Tax_Collector": "Pa Municipal Tax",
+      "Phone": "412-826-0300",
+      "Millage": "2.1"
+    },
+    {
+      "Municipality": "Ohio Township",
+      "Tax_Collector": "Kristen Pontello",
+      "Phone": "412-528-4858",
+      "Millage": "3.09"
+    },
+    {
+      "Municipality": "Penn Hills Township",
+      "Tax_Collector": "Keystone Collections Group",
+      "Phone": "412-793-7063",
+      "Millage": "6.444"
+    },
+    {
+      "Municipality": "Pennsbury Village",
+      "Tax_Collector": "Patricia Notaro",
+      "Phone": "412-276-6181",
+      "Millage": "6.2"
+    },
+    {
+      "Municipality": "Pine Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2315",
+      "Millage": "0.998"
+    },
+    {
+      "Municipality": "Pitcairn Borough",
+      "Tax_Collector": "Sally DiRobbio",
+      "Phone": "412-372-3009",
+      "Millage": "9.25"
+    },
+    {
+      "Municipality": "Pleasant Hills Borough",
+      "Tax_Collector": "Linda Fancsali",
+      "Phone": "412-653-6321",
+      "Millage": "7.75"
+    },
+    {
+      "Municipality": "Plum Borough",
+      "Tax_Collector": "Lisa A. Lagnese",
+      "Phone": "412-795-4600",
+      "Millage": "4.78"
+    },
+    {
+      "Municipality": "Port Vue Borough",
+      "Tax_Collector": "Lori DiMarco",
+      "Phone": "412-664-9323",
+      "Millage": "8.4"
+    },
+    {
+      "Municipality": "Rankin Borough",
+      "Tax_Collector": "Sheila Miles",
+      "Phone": "412-271-6605",
+      "Millage": "9.6928"
+    },
+    {
+      "Municipality": "Reserve Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2311",
+      "Millage": "5.47"
+    },
+    {
+      "Municipality": "Richland Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2315",
+      "Millage": "2.69"
+    },
+    {
+      "Municipality": "Robinson Township",
+      "Tax_Collector": "Michael Pendel",
+      "Phone": "412-788-8120",
+      "Millage": "3.2"
+    },
+    {
+      "Municipality": "Ross Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "2.7"
+    },
+    {
+      "Municipality": "Rosslyn Farms Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Scott Township",
+      "Tax_Collector": "Lisa Riley",
+      "Phone": "412-276-5302",
+      "Millage": "5.1711"
+    },
+    {
+      "Municipality": "Sewickley Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2319",
+      "Millage": "6.25"
+    },
+    {
+      "Municipality": "Sewickley Heights Borough",
+      "Tax_Collector": "Nathan A. Briggs",
+      "Phone": "412-741-5119",
+      "Millage": "5.5"
+    },
+    {
+      "Municipality": "Sewickley Hills Borough",
+      "Tax_Collector": "Doug Nolfi",
+      "Phone": "412-741-7734",
+      "Millage": "2.84"
+    },
+    {
+      "Municipality": "Shaler Township",
+      "Tax_Collector": "Erin Bartkins",
+      "Phone": "412-486-9700 x224",
+      "Millage": "3.49"
+    },
+    {
+      "Municipality": "Sharpsburg Borough 3",
+      "Tax_Collector": "Patricia Hyatt",
+      "Phone": "412-781-7749",
+      "Millage": "8.25"
+    },
+    {
+      "Municipality": "South Fayette Township",
+      "Tax_Collector": "Kevin P Biber",
+      "Phone": "412-221-8700",
+      "Millage": "4.73"
+    },
+    {
+      "Municipality": "South Park Township",
+      "Tax_Collector": "Lawrence Arrigo",
+      "Phone": "412-833-8292",
+      "Millage": "3.062"
+    },
+    {
+      "Municipality": "South Versailles Township",
+      "Tax_Collector": "Sherry Kahler",
+      "Phone": "412-754-2536",
+      "Millage": "2.9"
+    },
+    {
+      "Municipality": "Springdale Borough",
+      "Tax_Collector": "Deborah Sigmund",
+      "Phone": "724-274-6269",
+      "Millage": "8.25"
+    },
+    {
+      "Municipality": "Springdale Township",
+      "Tax_Collector": "Kathryn Winwood",
+      "Phone": "724-274-4416",
+      "Millage": "6.5"
+    },
+    {
+      "Municipality": "Stowe Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2311",
+      "Millage": "10.48"
+    },
+    {
+      "Municipality": "Swissvale Borough",
+      "Tax_Collector": "Thomas Barr",
+      "Phone": "412-351-3342",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Tarentum Borough",
+      "Tax_Collector": "Karen Marietti",
+      "Phone": "724-224-1179",
+      "Millage": "5.48"
+    },
+    {
+      "Municipality": "Thornburg Borough",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "724-731-2300",
+      "Millage": "6.6"
+    },
+    {
+      "Municipality": "Trafford Borough 2",
+      "Tax_Collector": "James Kerrigan",
+      "Phone": "412-372-5361",
+      "Millage": "31.5"
+    },
+    {
+      "Municipality": "Turtle Creek Borough",
+      "Tax_Collector": "Richard Smith",
+      "Phone": "412-824-1835",
+      "Millage": "9.5"
+    },
+    {
+      "Municipality": "Upper St. Clair Township",
+      "Tax_Collector": "Jordan Tax Service",
+      "Phone": "412-835-5243",
+      "Millage": "3.83"
+    },
+    {
+      "Municipality": "Verona Borough",
+      "Tax_Collector": "Keystone Collections Group",
+      "Phone": "724-978-0300",
+      "Millage": "9.7"
+    },
+    {
+      "Municipality": "Versailles Borough",
+      "Tax_Collector": "Charisse Richards",
+      "Phone": "412-896-1632",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Wall Borough",
+      "Tax_Collector": "Melissa Swidorsky",
+      "Phone": "412-824-3333",
+      "Millage": "7.22"
+    },
+    {
+      "Municipality": "West Deer Township",
+      "Tax_Collector": "Dorothy Bonovitz",
+      "Phone": "724-265-4250",
+      "Millage": "2.99"
+    },
+    {
+      "Municipality": "West Elizabeth Borough",
+      "Tax_Collector": "Robert N Welty",
+      "Phone": "412-384-7247",
+      "Millage": "4.55"
+    },
+    {
+      "Municipality": "West Homestead Borough",
+      "Tax_Collector": "Lisa Guckes",
+      "Phone": "412-461-1844",
+      "Millage": "8.8"
+    },
+    {
+      "Municipality": "West Mifflin Borough",
+      "Tax_Collector": "Jonathan Hess",
+      "Phone": "412-466-8177",
+      "Millage": "9.98"
+    },
+    {
+      "Municipality": "West View Borough",
+      "Tax_Collector": "Rita A Schwarzmeier",
+      "Phone": "412-931-1633",
+      "Millage": "6.3"
+    },
+    {
+      "Municipality": "Whitaker Borough",
+      "Tax_Collector": "Patricia Pasquiantonio",
+      "Phone": "412-464-1199",
+      "Millage": "10.5"
+    },
+    {
+      "Municipality": "White Oak Borough",
+      "Tax_Collector": "Lisa Pitchford",
+      "Phone": "412-678-0437",
+      "Millage": "8"
+    },
+    {
+      "Municipality": "Whitehall Borough",
+      "Tax_Collector": "Kelly Sgattoni",
+      "Phone": "412-881-1644",
+      "Millage": "4.42"
+    },
+    {
+      "Municipality": "Wilkins Township",
+      "Tax_Collector": "George M Porado",
+      "Phone": "412-824-6891",
+      "Millage": "6.174"
+    },
+    {
+      "Municipality": "Wilkinsburg Borough",
+      "Tax_Collector": "Berkheimer Tax",
+      "Phone": "610-588-0965",
+      "Millage": "14"
+    },
+    {
+      "Municipality": "Wilmerding Borough",
+      "Tax_Collector": "Frank J. Tylka",
+      "Phone": "412-823-4421",
+      "Millage": "13"
+    }
+  ],
+  "School_District": [
+    {
+      "School_District": "Allegheny Valley",
+      "Municipality": "Cheswick Borough, Harmar Township, Springdale Borough, Springdale Township",
+      "Millage": "20.8377"
+    },
+    {
+      "School_District": "Avonworth",
+      "Municipality": "Ben Avon Borough, Ben Avon Heights Borough, Emsworth Borough, Kilbuck Township, Ohio Township",
+      "Millage": "20.19"
+    },
+    {
+      "School_District": "Baldwin-Whitehall",
+      "Municipality": "Baldwin Borough, Baldwin Township, Whitehall Borough",
+      "Millage": "23"
+    },
+    {
+      "School_District": "Bethel Park",
+      "Municipality": "Bethel Park",
+      "Millage": "23.4281"
+    },
+    {
+      "School_District": "Brentwood",
+      "Municipality": "Brentwood Borough",
+      "Millage": "35.7905"
+    },
+    {
+      "School_District": "Carlynton",
+      "Municipality": "Carnegie Borough, Crafton Borough, Rosslyn Farms Borough",
+      "Millage": "26.7432"
+    },
+    {
+      "School_District": "Chartiers Valley",
+      "Municipality": "Bridgeville Borough, Collier Township, Heidelberg Borough, Scott Township",
+      "Millage": "19.3957"
+    },
+    {
+      "School_District": "Clairton",
+      "Municipality": "City of Clairton",
+      "Millage": "8.126",
+      "Land": "87.0653"
+    },
+    {
+      "School_District": "Cornell",
+      "Municipality": "Coraopolis Borough, Neville Township",
+      "Millage": "25.107"
+    },
+    {
+      "School_District": "Deer Lakes",
+      "Municipality": "East Deer Township, Frazer Township, West Deer Township",
+      "Millage": "22.69"
+    },
+    {
+      "School_District": "Duquesne Area",
+      "Municipality": "City of Duquesne",
+      "Millage": "18.48"
+    },
+    {
+      "School_District": "East Allegheny",
+      "Municipality": "East McKeesport Borough, North Versailles Township, Wall Borough, Wilmerding Borough",
+      "Millage": "26.9722"
+    },
+    {
+      "School_District": "Elizabeth-Forward",
+      "Municipality": "Elizabeth Borough, Elizabeth Township, Forward Township",
+      "Millage": "26.3243"
+    },
+    {
+      "School_District": "Fox Chapel Area",
+      "Municipality": "Aspinwall Borough, Blawnox Borough, Fox Chapel Borough, Indiana Township, O'Hara Township, Sharpsburg Borough",
+      "Millage": "20.4288"
+    },
+    {
+      "School_District": "Gateway",
+      "Municipality": "Monroeville Municipality, Pitcairn Borough",
+      "Millage": "21.7479"
+    },
+    {
+      "School_District": "Hampton",
+      "Municipality": "Hampton Township",
+      "Millage": "20.99"
+    },
+    {
+      "School_District": "Highlands",
+      "Municipality": "Brackenridge Borough, Fawn Township, Harrison Township, Tarentum Borough",
+      "Millage": "25.13"
+    },
+    {
+      "School_District": "Keystone Oaks",
+      "Municipality": "Castle Shannon Borough, Dormont Borough, Green Tree Borough",
+      "Millage": "20.4856"
+    },
+    {
+      "School_District": "McKeesport Area",
+      "Municipality": "Dravosburg Borough, City of McKeesport, South Versailles Township, Versailles Borough, White Oak Borough",
+      "Millage": "20.96"
+    },
+    {
+      "School_District": "Montour",
+      "Municipality": "Ingram Borough, Kennedy Township, Pennsbury Village, Robinson Township, Thornburg Borough",
+      "Millage": "17.9638"
+    },
+    {
+      "School_District": "Moon Area",
+      "Municipality": "Crescent Township, Moon Township",
+      "Millage": "22.6746"
+    },
+    {
+      "School_District": "Mt. Lebanon",
+      "Municipality": "Mount Lebanon",
+      "Millage": "26.39"
+    },
+    {
+      "School_District": "North Allegheny",
+      "Municipality": "Bradford Woods Borough, Franklin Park Borough, Marshall Township, McCandless Township",
+      "Millage": "19.74"
+    },
+    {
+      "School_District": "North Hills",
+      "Municipality": "Ross Township, West View Borough",
+      "Millage": "19.7"
+    },
+    {
+      "School_District": "Northgate",
+      "Municipality": "Avalon Borough, Bellevue Borough",
+      "Millage": "27.32"
+    },
+    {
+      "School_District": "Penn Hills",
+      "Municipality": "Penn Hills Township",
+      "Millage": "30.5965"
+    },
+    {
+      "School_District": "Pine-Richland",
+      "Municipality": "Pine Township, Richland Township",
+      "Millage": "19.5867"
+    },
+    {
+      "School_District": "Pittsburgh",
+      "Municipality": "Mount Oliver Borough, City of Pittsburgh",
+      "Millage": "10.25"
+    },
+    {
+      "School_District": "Plum",
+      "Municipality": "Plum Borough",
+      "Millage": "22.0241"
+    },
+    {
+      "School_District": "Quaker Valley",
+      "Municipality": "Aleppo Township, Bell Acres Borough, Edgeworth Borough, Glenfield Borough, Haysville Borough, Leet Township, Leetsdale Borough, Glen Osborne Borough, Sewickley Borough, Sewickley Heights Borough, Sewickley Hills Borough",
+      "Millage": "20.0367"
+    },
+    {
+      "School_District": "Riverview",
+      "Municipality": "Oakmont Borough, Verona Borough",
+      "Millage": "23.6675"
+    },
+    {
+      "School_District": "Shaler Area",
+      "Municipality": "Etna Borough, Millvale Borough, Reserve Township, Shaler Township",
+      "Millage": "23.5319"
+    },
+    {
+      "School_District": "South Allegheny",
+      "Municipality": "Glassport Borough, Liberty Borough, Lincoln Borough, Port Vue Borough",
+      "Millage": "23.5"
+    },
+    {
+      "School_District": "South Fayette",
+      "Municipality": "South Fayette Township",
+      "Millage": "26.7"
+    },
+    {
+      "School_District": "South Park",
+      "Municipality": "South Park Township",
+      "Millage": "26.7"
+    },
+    {
+      "School_District": "Steel Valley",
+      "Municipality": "Homestead Borough, Munhall Borough, West Homestead Borough",
+      "Millage": "25.96"
+    },
+    {
+      "School_District": "Sto-Rox",
+      "Municipality": "McKees Rocks Borough, Stowe Township",
+      "Millage": "26.325"
+    },
+    {
+      "School_District": "Upper St. Clair",
+      "Municipality": "Upper St. Clair Township",
+      "Millage": "28.5628"
+    },
+    {
+      "School_District": "West Allegheny",
+      "Municipality": "Findlay Township, North Fayette Township, Oakdale Borough",
+      "Millage": "18.51"
+    },
+    {
+      "School_District": "West Jefferson",
+      "Municipality": "Jefferson Hills Borough, Pleasant Hills Borough, West Elizabeth Borough",
+      "Millage": "22.773"
+    },
+    {
+      "School_District": "West Mifflin Area",
+      "Municipality": "West Mifflin Borough, Whitaker Borough",
+      "Millage": "26.5691"
+    },
+    {
+      "School_District": "Wilkinsburg",
+      "Municipality": "Wilkinsburg Borough",
+      "Millage": "24.5"
+    },
+    {
+      "School_District": "Woodland Hills",
+      "Municipality": "Braddock Borough, Braddock Hills Borough, Chalfant Borough, Churchill Borough, East Pittsburgh Borough, Edgewood Borough, Forest Hills Borough, North Braddock Borough, Rankin Borough, Swissvale Borough, Turtle Creek Borough, Wilkins Township",
+      "Millage": "26.9982"
+    },
+    {
+      "School_District": "Fort Cherry",
+      "Municipality": "McDonald Borough",
+      "Millage": "14.0258"
+    },
+    {
+      "School_District": "Penn-Trafford",
+      "Municipality": "Trafford Borough",
+      "Millage": "14.01"
+    }
+  ]
+}
